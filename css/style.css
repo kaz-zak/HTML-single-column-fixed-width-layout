@@ -5,8 +5,14 @@ html {
 }
 
 body {
+  background-color: gainsboro;
   font-size: 1.6rem;
   font-family: "Hiragino Kaku Gothic ProN", meiryo, sans-serif;
+}
+
+.wrapper {
+  width: 600px;
+  background-color: white;
 }
 
 *, *::before, *::after {
